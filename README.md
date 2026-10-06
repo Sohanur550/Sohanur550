@@ -201,3 +201,8 @@ Software Engineer | Data Analyst | Python & AI Enthusiast
 - My immediate goal is to become a professional Data Analyst by developing strong skills in Excel, SQL, Power BI, Python, and business-oriented data analysis.
 
 - After building strong experience in data and analytics, I plan to move deeper into Machine Learning and AI Engineering.
+
+# 🌱 Learning Philosophy
+### Learn → Practice → Build → Analyze → Improve
+
+- I believe consistent practice and real-world projects are the best way to develop strong technical and problem-solving skills.
