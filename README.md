@@ -28,9 +28,9 @@ Software Engineer | Data Analyst | Python & AI Enthusiast
 
 # 💼 Current Experience
 
-##🏢 Star News
+## 🏢 Star News
 
-###Junior Executive – BOE & IT
+### Junior Executive – BOE & IT
 
 - Working with MCR & Ingest operations and broadcast systems.
 
