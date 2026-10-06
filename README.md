@@ -2,7 +2,7 @@
 
 Software Engineer | Data Analyst | Python & AI Enthusiast
 
-- 🎓 Software Engineering Graduate currently working at Star News as a Junior Executive – BOE & IT, with experience in MCR & Ingest operations, IT operations, and broadcast systems.
+- 🎓 Software Engineering (Mejor Data Science) Graduate currently working at Star News as a Junior Executive – BOE & IT, with experience in MCR & Ingest operations, IT operations, and broadcast systems.
 
 - I’m currently transitioning into Data Analytics, focusing on turning raw data into meaningful insights using Excel, SQL, Power BI, and Python.
 
