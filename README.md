@@ -1,10 +1,14 @@
-## Hi there 👋
+👋 Hi, I'm Sohan
 
-**Sohanur550/Sohanur550** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineer | Data Analyst | Python & AI Enthusiast
 
-Here are some ideas to get you started:
+🎓 Software Engineering Graduate currently working at Star News as a Junior Executive – BOE & IT, with experience in MCR & Ingest operations, IT operations, and broadcast systems.
 
-- 🔭About Me
+I’m currently transitioning into Data Analytics, focusing on turning raw data into meaningful insights using Excel, SQL, Power BI, and Python.
+
+My long-term goal is to grow from Data Analyst → ML Engineer → AI/ML Specialist → AI Architect.
+
+ 🔭About Me
 
 🔭 I’m currently working on Data Analytics projects and building my professional portfolio.
 
