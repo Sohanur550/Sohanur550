@@ -6,7 +6,8 @@ Software Engineer | Data Analyst | Python & AI Enthusiast
 
 - I’m currently transitioning into Data Analytics, focusing on turning raw data into meaningful insights using Excel, SQL, Power BI, and Python.
 
- ### My long-term goal is to grow from Data Analyst → ML Engineer → AI/ML Specialist → AI Architect.
+ ### My long-term goal is to grow from :
+ Data Analyst → ML Engineer → AI/ML Specialist → AI Architect.
 
  # 🔭About Me
 
