@@ -26,4 +26,19 @@ Software Engineer | Data Analyst | Python & AI Enthusiast
 
 - ⚡ Fun fact: I’m transitioning from broadcast technology to data analytics while building a long-term career in AI and Machine Learning. 🚀
 
+# 💼 Current Experience
+
+##🏢 Star News
+
+###Junior Executive – BOE & IT
+
+- Working with MCR & Ingest operations and broadcast systems.
+
+- Supporting day-to-day IT and operational workflows.
+
+- Troubleshooting technical and operational issues.
+
+- Monitoring systems and maintaining smooth operational processes.
+
+- Developing strong problem-solving, analytical, and technical skills.
 
