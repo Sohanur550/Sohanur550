@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Sohan
+# 👋 Hi, I'm Md Sohanur Rohaman Sohan
 
 Software Engineer | Data Analyst | Python & AI Enthusiast
 
