@@ -42,3 +42,68 @@ Software Engineer | Data Analyst | Python & AI Enthusiast
 
 - Developing strong problem-solving, analytical, and technical skills.
 
+  
+# 📊 Data Analytics Skills
+## Excel
+
+- Advanced Excel
+
+- Data Cleaning
+
+- Pivot Tables
+
+- XLOOKUP / VLOOKUP
+
+- IF / SUMIFS / COUNTIFS
+
+- Charts & Reporting
+
+- Data Analysis
+
+## SQL
+
+- MySQL
+
+- SELECT & Filtering
+
+- JOINs
+
+- GROUP BY
+
+- Subqueries
+
+- CTEs
+
+- Window Functions
+
+- Data Cleaning & Transformation
+
+## Power BI
+
+- Data Modeling
+
+- Power Query
+
+- DAX
+
+- Interactive Dashboards
+
+- KPI Reporting
+
+- Data Visualization
+
+- Business Intelligence
+
+## Python
+
+- Python Fundamentals
+
+- Pandas
+
+- NumPy
+
+- Matplotlib
+
+- Data Cleaning
+
+- Exploratory Data Analysis
