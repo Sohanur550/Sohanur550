@@ -230,7 +230,6 @@ Software Engineer | Data Analyst | Python & AI Enthusiast
 #### I’m always open to connecting with developers, data professionals, AI/ML enthusiasts, recruiters, and potential collaborators.
 
 - 💼 **LinkedIn:** [Connect with me on LinkedIn](https://www.linkedin.com/in/md-sohanur-rohanman-sohan-8a53ba30a/)
-- 
 - 🐙 **GitHub:** [Explore my GitHub](https://github.com/Sohanur550)
 - 📧 **Email:** [mdarifansohan@gmail.com]
 - 📱 **Mobile:** Available upon request
@@ -241,4 +240,4 @@ Software Engineer | Data Analyst | Python & AI Enthusiast
 
 ### Turn data into insights, insights into decisions, and technology into intelligent solutions.
 
-##⭐ Data → Analytics → Machine Learning → AI
+## ⭐ Data → Analytics → Machine Learning → AI
