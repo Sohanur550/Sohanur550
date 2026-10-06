@@ -1,8 +1,9 @@
 # 👋 Hi, I'm Sohan
+
 <img width="1584" height="396" alt="2" src="https://github.com/user-attachments/assets/12af3757-a78a-4c33-85e1-510f69652e53" />
 
 
-Software Engineer | Data Analyst | Python & AI Enthusiast
+##Software Engineer | Data Analyst | Python & AI Enthusiast
 
 - 🎓 Software Engineering (Mejor Data Science) Graduate currently working at Star News as a Junior Executive – BOE & IT, with experience in MCR & Ingest operations, IT operations, and broadcast systems.
 
