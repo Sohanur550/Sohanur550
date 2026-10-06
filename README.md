@@ -229,12 +229,16 @@ Software Engineer | Data Analyst | Python & AI Enthusiast
 # 🌐 Connect With Me
 #### I’m always open to connecting with developers, data professionals, AI/ML enthusiasts, recruiters, and potential collaborators.
 
-
 - 💼 **LinkedIn:** [Connect with me on LinkedIn](https://www.linkedin.com/in/md-sohanur-rohanman-sohan-8a53ba30a/)
 - 
-- 🐙 **GitHub:** [Explore my GitHub](https://github.com/your-username)
-- 📧 **Email:** [yourname@gmail.com](mailto:mdarifansohan@gmail.com)
-- 📱 **Mobile:** [017XXXXXXXX](tel:+8801759547355)
+- 🐙 **GitHub:** [Explore my GitHub](https://github.com/Sohanur550)
+- 📧 **Email:** [mdarifansohan@gmail.com]
+- 📱 **Mobile:** Available upon request
 - ▶️ **YouTube:** [My Personal YouTube Channel](https://www.youtube.com/@yourchannel)
 - 📘 **Facebook Page:** [Visit My Facebook Page](https://www.facebook.com/yourpage)
 
+# 🚀 Career Mission
+
+### Turn data into insights, insights into decisions, and technology into intelligent solutions.
+
+##⭐ Data → Analytics → Machine Learning → AI
