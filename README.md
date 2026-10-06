@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Md Sohanur Rohaman Sohan
+# 👋 Hi, I'm Sohan
 <img width="1584" height="396" alt="2" src="https://github.com/user-attachments/assets/12af3757-a78a-4c33-85e1-510f69652e53" />
 
 
