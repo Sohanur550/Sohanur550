@@ -126,3 +126,73 @@ Software Engineer | Data Analyst | Python & AI Enthusiast
 
 ### Currently Exploring
 - Machine Learning | Scikit-learn | PyTorch
+
+# 📂 Featured Data Analytics Projects
+
+## 📈 Sales Data Analysis
+
+### Analyzed sales data to identify:
+
+- Revenue trends
+
+- Top-performing products
+
+- Customer behavior
+
+- Regional performance
+
+- Business opportunities
+
+#### Tools: Excel / SQL / Power BI
+
+## 📊 Business Intelligence Dashboard
+
+### Built an interactive Power BI dashboard to monitor:
+
+- Revenue
+
+- Sales
+
+- Profit
+
+- KPIs
+
+- Monthly performance
+
+- Business trends
+
+#### Tools: Power BI / Power Query / DAX
+
+## 🗄️ SQL Data Analysis
+
+### Performed SQL-based analysis using:
+
+- JOINs
+
+- CTEs
+
+- Subqueries
+
+- Aggregations
+
+- Window Functions
+
+#### Tools: MySQL / SQL
+
+## 🐍 Python Data Analysis
+
+### Used Python to:
+
+- Clean datasets
+
+- Handle missing values
+
+- Analyze data
+
+- Identify trends
+
+- Create visualizations
+
+- Generate insights
+
+#### Tools: Python / Pandas / NumPy / Matplotlib
