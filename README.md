@@ -107,3 +107,22 @@ Software Engineer | Data Analyst | Python & AI Enthusiast
 - Data Cleaning
 
 - Exploratory Data Analysis
+
+# 🛠️ Tools & Technologies
+### Languages
+- Python | SQL
+
+### Data Analytics
+- Excel | Power BI | Pandas | NumPy
+
+### Database
+- MySQL
+
+### Visualization
+- Power BI | Matplotlib
+
+### Development Tools
+- VS Code | Git | GitHub
+
+### Currently Exploring
+- Machine Learning | Scikit-learn | PyTorch
